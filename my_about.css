@@ -1,0 +1,9 @@
+.title{
+    color: #fff;
+    position: relative;
+    z-index: 101;
+}
+
+.section-header h2{
+    color: #fff;
+}

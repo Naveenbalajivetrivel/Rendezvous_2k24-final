@@ -1,0 +1,6 @@
+.services .service-item{
+    background: none;
+}
+.modal-backdrop{
+    --bs-backdrop-zindex : 101px;
+}

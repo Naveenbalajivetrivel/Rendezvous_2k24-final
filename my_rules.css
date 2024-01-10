@@ -1,0 +1,19 @@
+h1{
+    text-align: center !important;
+    /* text-decoration: underline; */
+    font-size: 50px;
+    padding-bottom: 5%;
+    padding-top: 3%;
+    font-family: var(--font-secondary);
+}
+
+li{
+    font-size: 20px;
+    padding: 5px;
+    text-align: left;
+}
+
+.text{
+    color: black;
+    text-align: left !important;
+}
