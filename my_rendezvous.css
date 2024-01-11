@@ -1,3 +1,14 @@
+:root {
+    --color-default: #FAEED1;
+    --color-primary: #607274;
+    --color-secondary: #B2A59B;
+}
+
+.scroll-top:hover {
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+}
+
 body {
     margin: 0;
     font-family: Arial, sans-serif;
