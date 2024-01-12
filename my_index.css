@@ -13,3 +13,9 @@
     letter-spacing: 2px;
     color: rgba(13, 1, 78, 0.986) !important;
 }
+
+.container{
+    color: #fff;
+    position: relative;
+    z-index: 101;
+}

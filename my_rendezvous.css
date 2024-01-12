@@ -9,6 +9,8 @@
     color: #fff;
 }
 
+
+
 body {
     margin: 0;
     font-family: Arial, sans-serif;
@@ -32,7 +34,7 @@ body::before {
     right: 0;
     bottom: 0;
     left: 0;
-    background: rgba(0, 0, 0, 0.5); /* Set black low-opacity overlay */
+    background: rgba(0, 0, 0, 0.7); /* Set black low-opacity overlay */
     background-size: (1920px , 1080px);
     pointer-events: none;
 }

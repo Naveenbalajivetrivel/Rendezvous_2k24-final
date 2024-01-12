@@ -47,3 +47,8 @@
     opacity: 1; /* Full opacity */
 }
 
+.container{
+    color: #fff;
+    position: relative;
+    z-index: 101;
+}
